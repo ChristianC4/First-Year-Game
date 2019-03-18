@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\100621707\desktop\folder of games\vinum bellum\newest build\newest build\main.cpp(308): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\100621707\desktop\folder of games\vinum bellum\newest build\newest build\main.cpp(708): warning C4551: function call missing argument list
+  Newest Build.vcxproj -> C:\Users\100621707\Desktop\Folder of Games\Vinum Bellum\Newest Build\Debug\Newest Build.exe

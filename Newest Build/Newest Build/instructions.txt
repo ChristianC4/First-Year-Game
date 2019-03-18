@@ -1,0 +1,28 @@
+Welcome to the instructions page!
+
+Here are the controls you will need to start playing:
+
+In order to move your character up and down you will need to use the up and down arrow keys.
+
+The right arrow key fires the "O".
+
+The left arrow key fires the "]".
+
+The spacebar fires the ")".
+
+")" will beat "]".
+
+"]" will beat "O".
+
+"O" will beat ")".
+
+Your moveable character will have a healthbar as well as troop count at the bottom of the screen.
+
+Your troop count will always increase passively over time, and additional troops can be gained by destroying a character inferior to the one you shot. 
+
+If your character's health or your castle's health reaches 0 you will lose.
+
+Press ESC to pause the game at anytime.
+
+Good luck!
+
